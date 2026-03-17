@@ -1,0 +1,16 @@
+title: Sajid Naseem
+description: Senior Software Engineer | Front-End, Mobile, AI
+url: "https://sajidnaseem.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - work.md
+  - resume.md
+  - contact.md
+
+minima:
+  social_links:
+    github: sajidnaseem
+    linkedin: saji-d-naseem-8745727
